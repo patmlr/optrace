@@ -1,0 +1,6 @@
+/build/
+/dist/
+/optrace.egg-info/
+/.idea/
+/docs/_site/
+/docs/.jekyll-metadata
